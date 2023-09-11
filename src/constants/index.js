@@ -26,6 +26,10 @@ import {
   turu,
   kepo,
   Portofolio,
+  instagram,
+  linkedin,
+  wa,
+  githubsosmed,
 } from "../assets";
 
 export const navLinks = [
@@ -255,4 +259,27 @@ const projects = [
   },
 ];
 
-export { services, technologies, experiences, educations, projects };
+const sosmeds = [
+  {
+    sosmed: "instagram",
+    link: "https://www.instagram.com/imamfahrurazi/",
+    logo: instagram,
+  },
+  {
+    sosmed: "wa",
+    link: "https://api.whatsapp.com/send?phone=6281250617579",
+    logo: wa,
+  },
+  {
+    sosmed: "linkedin",
+    link: "https://www.linkedin.com/in/imam-ahmad-fahrurazi/",
+    logo: linkedin,
+  },
+  {
+    sosmed: "github",
+    link: "https://github.com/imamahmadf",
+    logo: githubsosmed,
+  },
+];
+
+export { services, technologies, experiences, educations, projects, sosmeds };

@@ -36,6 +36,12 @@ import turu from "./turu.png";
 import kepo from "./kepo.png";
 import Portofolio from "./portofolio.png";
 import Imam from "./imam.jpg";
+
+import instagram from "./instagram.png";
+import wa from "./wa.png";
+import linkedin from "./linkedin.png";
+import githubsosmed from "./githubsosmed.png";
+
 export {
   logo,
   backend,
@@ -69,4 +75,8 @@ export {
   kepo,
   Portofolio,
   Imam,
+  instagram,
+  linkedin,
+  wa,
+  githubsosmed,
 };
