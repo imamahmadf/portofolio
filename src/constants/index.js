@@ -163,15 +163,14 @@ const experiences = [
     ],
   },
   {
-    title: "Web Developer",
-    company_name: "Inaris",
+    title: "Head of Media and Communications",
+    company_name: "Indonesia Rusia Trade, Tourism and Investment Forum",
     icon: Inaris,
     iconBg: "white",
     date: "Februari 2023 - Mei 2023",
     points: [
-      "Collaborating with web developers to build a user-friendly website design.",
-      "Maintain and update information on the website.",
-      "Creating technology-based business processes.",
+      "Creating a website for publishing and providing forum information.",
+      "Coordinating all the necessary media to publicize the outcomes of the forum.",
     ],
   },
 ];
