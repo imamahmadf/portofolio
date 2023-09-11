@@ -19,7 +19,7 @@ import reactjs from "./tech/reactjs.png";
 import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
-
+import MUI from "./tech/MUI.png";
 import chakraui from "./tech/chakra-ui.png";
 import express from "./tech/express.js.png";
 import Bootstap from "./tech/Bootstrap.png";
@@ -49,6 +49,7 @@ export {
   git,
   html,
   javascript,
+  MUI,
   nodejs,
   reactjs,
   redux,

@@ -18,6 +18,7 @@ import {
   tailwind,
   nodejs,
   git,
+  MUI,
   figma,
   IBT,
   Inaris,
@@ -112,6 +113,10 @@ const technologies = [
     icon: chakraui,
   },
   {
+    name: "MUI",
+    icon: MUI,
+  },
+  {
     name: "express",
     icon: express,
   },
@@ -178,9 +183,6 @@ const educations = [
     description:
       "Specialist in passenger railway station management, GPA 3.79. Learn a lot of schematics, graphs and mathematical modeling. Completed the defenses thesis and got a perfect scores, graduated with distinction as an active student in campus activities.",
     year: "2015-2021",
-    designation: "CFO",
-    company: "Acme Co",
-    image: "https://randomuser.me/api/portraits/women/4.jpg",
   },
   {
     major: "Full Stack Web Developer",
@@ -188,9 +190,6 @@ const educations = [
     description:
       "Intensive JavaScript training to become a full-stack web developer within 12 weeks. Learning various technologies to build websites that meet industry needs. Collaborating to build real projects using agile methodologies.",
     year: "August 2022 - January 2023 ",
-    designation: "COO",
-    company: "DEF Corp",
-    image: "https://randomuser.me/api/portraits/men/5.jpg",
   },
 ];
 
@@ -256,7 +255,7 @@ const projects = [
       },
     ],
     image: Portofolio,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/imamahmadf/portofolio.git",
   },
 ];
 
