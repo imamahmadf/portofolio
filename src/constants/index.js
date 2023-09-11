@@ -1,7 +1,7 @@
 import {
-  mobile,
+  android,
   backend,
-  web,
+  frontend,
   javascript,
   typescript,
   Bootstap,
@@ -45,21 +45,18 @@ export const navLinks = [
 
 const services = [
   {
-    title: "Web Developer",
-    icon: web,
+    title: "Frontend Web Developer",
+    icon: frontend,
+  },
+
+  {
+    title: "Backend Web Developer",
+    icon: backend,
   },
   {
     title: "React Native Developer",
-    icon: mobile,
+    icon: android,
   },
-  {
-    title: "Backend Developer",
-    icon: backend,
-  },
-  // {
-  //   title: "Content Creator",
-  //   icon: creator,
-  // },
 ];
 
 const technologies = [

@@ -1,8 +1,8 @@
 import logo from "./logo.svg";
 import backend from "./backend.png";
 
-import mobile from "./mobile.png";
-import web from "./web.png";
+import android from "./android.png";
+import frontend from "./frontend.png";
 import github from "./github.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
@@ -39,8 +39,8 @@ import Imam from "./imam.jpg";
 export {
   logo,
   backend,
-  mobile,
-  web,
+  android,
+  frontend,
   github,
   menu,
   close,
